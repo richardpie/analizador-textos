@@ -12,4 +12,4 @@ find . -name "*.class" > classes.txt
 jar cfe program.jar Main.CapaPresentacio.MainPresentacio -C /home/{user}/analizador-textos/out/production/analizador-textos @classes.txt
 mv program.jar ../../../program.jar
 ```
-Remember to replace `{user}` with your user or folder where you have downloaded this repo 
+Remember to replace `{user}` with your user or folder where you have downloaded this repo to.
