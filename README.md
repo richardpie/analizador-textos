@@ -1,7 +1,7 @@
 # analizador-textos
 
 ## How to run the progam
-Download the binary [here](http://github.com/richard/analizador-textos/executable/program.zip)
+Download the binary [here](https://github.com/richardpie/analizador-textos/tree/main/executable)
 
 ## How to compile and build the jar file
 First compile with IntelliJ and Java 11.  
